@@ -26,6 +26,11 @@ public class git_initprueba {
 			case 3:
 				break;
 			case 4:
+				System.out.print("Ingresa un úmero entero: ");
+				num1=sc.nextInt();
+				System.out.print("Ingresa otro número entero: ");
+				num2=sc.nextInt();
+				total= num1 / num2;
 				break;
 			case 5:
 				System.out.print("Saliendo...");
