@@ -25,6 +25,7 @@ public class git_initprueba {
 				System.out.print("Ingresa otro número entero: ");
 				num2=sc.nextInt();
 				total= num1 + num2;
+				System.out.println(total);
 				break;
 			case 2:
 				break;
